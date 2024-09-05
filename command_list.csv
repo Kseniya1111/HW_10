@@ -1,0 +1,145 @@
+    1  df -h
+    2  ipconfig
+    3  ifconfig
+    4  whoami
+    5  cd Desktop/Lesson32
+    6  chmod 777 fie.txt
+    7  chmod 777 fie1.txt
+    8  chmod 777 fie1..txt
+    9  clear
+   10  git config --global user.name "Kseniia Shabalina"
+   11  git config --global user.email abbasovakm@gmail.com
+   12  git clone https://github.com/Kseniya1111/Lesson32.git
+   13  git status
+   14  cd Lesson32
+   15  ls 
+   16  git status
+   17  git add .DS_store
+   18  git status
+   19  ls
+   20  cd 
+   21  cd Lesson32Desk
+   22  cd Lesson32Desk
+   23  cd Desktop
+   24  cd Lesson32Desk
+   25  git status
+   26  ls
+   27  cd Lesson32
+   28  git status
+   29  touch new.txt
+   30  git status
+   31  git add new.tst
+   32  git add new.txt
+   33  git status
+   34  git commit -m "new.txt file added"
+   35  git status
+   36  git checkout -b new_branch
+   37  git branch
+   38  nano new.txt
+   39  git status
+   40  git add new.txt
+   41  git status 
+   42  git commit -m "new.txt file updated"
+   43  git checkout mainh
+   44  git checkout main
+   45  git branch
+   46  git merge new_branch
+   47  git status
+   48  git branch
+   49  git push
+   50  git push
+   51  git push 
+   52  git push
+   53  cd ..
+   54  cd ..
+   55  mkdir Lesson30
+   56  cd Lesson30
+   57  -c && rm ~/.bash_history
+   58  -c && rm ~/.bash_history
+   59  -c && rm ~/.bash_history
+   60  -c && rm ~/.bash_history
+   61  history -c && rm ~/.bash_history
+   62  history -c && rm ~/.bash_history
+   63   ~/.bash_history
+   64  history -c && rm ~/.bash_history
+   65  history -c && rm ~/.bash_history
+   66  history -c && rm ~/.bash_history
+   67  history -c && rm ~/.zsh_history
+   68  history -c && rm ~/.zsh_history
+   69  fc -R && rm ~/.zsh_history
+   70  git clone https://github.com/Kseniya1111/HW_10.git
+   71  cd HW_10
+   72  touch text_ignore.txt
+   73  nano .gitignore
+   74  git status
+   75  cat .gitignore
+   76  nano .gitignore
+   77  git status
+   78  git add .gitignore
+   79  git status
+   80  git commit -m ".gitignore Updated"
+   81  touch main_test.txt
+   82  git add main_test.txt
+   83  git status
+   84  git commit -m "main_test created"
+   85  git checkout -b develop
+   86  git checkout develop
+   87  touch develop_test.txt
+   88  git add develop_test.txt
+   89  git status
+   90  git commit -m "develop_test.txt added"
+   91  git nano develop_test.txt
+   92  nano develop_test.txt
+   93  git status
+   94  git add develop_test.txt
+   95  git status
+   96  git commit -m "develop_test.txt edited"
+   97  git checkout main\n
+   98  git merge develop
+   99  git log
+  100  history 0>command_list.clv
+  101  git add
+  102  git add command_list.csv
+  103  git add command_list.clv
+  104  git status
+  105  git commit -m "command_list.clv edited"
+  106  git push
+  107  git push
+  108  git push
+  109  git push
+  110  cd HW_10
+  111  git add command_list.csv
+  112  git status
+  113  clear
+  114  cd Lesson30
+  115  cd Desktop
+  116  cd Lesson30
+  117  history -c && rm ~/.bash_history
+  118  fc -R && rm ~/.zsh_history
+  119  git config --global user.name "Kseniia Shabalina"
+  120  git config --global user.email abbasovakm@gmail.com
+  121  git clone https://github.com/Kseniya1111/HW_10.git
+  122  cd HW_10
+  123  touch text_ignore.txt
+  124  nano .gitignore
+  125  git status
+  126  git add text_ignore.txt
+  127  git add .gitignore
+  128  git status
+  129  git commit -m ".gitignore updated"
+  130  touch main_test.txt
+  131  git add main_test.txt
+  132  git commit -m "main_test.txt created"
+  133  git checkout -b develop
+  134  git checkout develop
+  135  touch develop_test.txt
+  136  git add develop_test.txt
+  137  git status
+  138  git commit -m "develop_test.txt created"
+  139  nano develop_test.txt
+  140  git status
+  141  git add develop_test.txt
+  142  git commit -m "develop_test.txt updated"
+  143  git checkout main
+  144  git merge develop
+  145  git log
